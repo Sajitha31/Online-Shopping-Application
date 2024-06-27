@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SignUp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!--Primary color-->
+        <item name="colorPrimary">@color/color1</item>
+        <item name="colorPrimaryVariant">@color/color2</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!--Primary color-->
+        <item name="colorSecondary">@color/color2</item>
+        <item name="colorSecondaryVariant">#CAB481</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!--Status bar color-->
+        <item name="android:statusBarColor">#F8AB52</item>
+
+    </style>
+</resources>
